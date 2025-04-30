@@ -131,7 +131,7 @@ function codeValid() {
 
         // reset values
         resetAll()
-        window.location.href = "https://i_products.web.app";
+        window.location.href = "https://i-products.web.app";
     }, 3000)
 }
 
